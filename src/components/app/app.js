@@ -12,11 +12,11 @@ class App extends Component {
     
     state = {
             data: [
-                { name: 'Peter H.', salary: 800, increase: false, rise: true, id: 1 },
-                { name: 'Mark R.', salary: 3000, increase: true, rise: false, id: 2 },
-                { name: 'Roy T.', salary: 900, increase: false, rise: false, id: 3 },
+                { name: 'Jack H.', salary: 800, increase: false, rise: true, id: 1 },
+                { name: 'Piter W.', salary: 3000, increase: true, rise: false, id: 2 },
+                { name: 'John T.', salary: 900, increase: false, rise: false, id: 3 },
                 { name: 'Grace M.', salary: 1500, increase: true, rise: false, id: 4 },
-                { name: 'Caren O.', salary: 4000, increase: false, rise: true, id: 5 },
+                { name: 'Charlie O.', salary: 4000, increase: false, rise: true, id: 5 },
             ],
             term: '',
             filter: 'all'
